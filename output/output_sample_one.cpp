@@ -6,7 +6,7 @@ int main ()
 
 {
   cout<<"Enter two numbers"<<endl;
-  int<<n1=0, n2=0;
+  int n1=0, n2=0;
   cin>>n1>>n2;
   cout<<"The sum of"<<n1<<"And"<<n2<<"is<<n1+n2<<endl;
   return 0;
